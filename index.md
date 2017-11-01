@@ -1,5 +1,5 @@
 <html>
-<head>
+    <head></head>
 <body>
     <div id="page1"></div>
     <script>
